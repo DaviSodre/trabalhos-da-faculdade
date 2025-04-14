@@ -8,12 +8,12 @@ Bem-vindo(a) ao meu repositório de **atividades feitas em aula**! Aqui você va
 
 As atividades estão organizadas da seguinte forma:
 
-📁 nome-da-disciplina/ ├──  📝 atividades.java
+📁 nome-da-disciplina/ ├── 📁 Nome do trabalho/ ├── 📝 Arquivos.java
 
 
 **Exemplo:**
 
-📁 trabalho java 01/ ├──  📝 main.java
+📁 Trabalhos Java/ ├── 📁 SistemaPagamento/ ├── 📝 Main.java
 
 
 ---
