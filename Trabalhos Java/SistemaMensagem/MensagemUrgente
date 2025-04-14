@@ -1,0 +1,13 @@
+package mensagens;
+
+public class MensagemUrgente extends Mensagem {
+	public MensagemUrgente(CanalEnvio canal) {
+		super(canal);
+	}
+	
+	@Override
+	public void enviarMensagem(String texto) {
+		canal.enviar("*** URGENTE *** " + texto.toUpperCase());
+	}
+
+}
